@@ -1,0 +1,36 @@
+body{
+    background-color: #ccc;
+   
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    max-width: 20rem;
+    margin: 4rem auto;
+    background: white;
+    padding: 1rem;
+    border-radius: 2rem;
+}
+
+input, button{
+    display: block;
+    margin: 1rem auto;
+    padding: .4rem;
+    border: gainsboro;
+    
+}
+
+.success{
+    border: solid 2px green;
+}
+
+.error{
+    border: solid 2px crimson;
+}
